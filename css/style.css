@@ -415,7 +415,7 @@ body{
 
 @media (max-width:767px) {
     .projects__cards {
-        height: 3304px;
+        height: 88.674181%; /* 3304/3726 */
     }
     .card {
         height:31.719128%; /* 1048/3304 */
